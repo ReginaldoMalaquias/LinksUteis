@@ -4,8 +4,8 @@ LinksUteis
 ## 💻 Links Úteis
 | Assunto | Resumo |
 |-------|---------|
-| Uneb serviço declaração Imposto Renda Campus Salvador | [Resumos](https://sociedadeonline.com/uneb-oferece-servico-gratuito-de-declaracao-do-imposto-de-renda-no-campus-de-salvador/)
-| Painel Play Uol | [Resumos](https://painel.play.uol.com.br/minha-conta/)
+| Uneb serviço declaração Imposto Renda Campus Salvador | [Ir](https://sociedadeonline.com/uneb-oferece-servico-gratuito-de-declaracao-do-imposto-de-renda-no-campus-de-salvador/)
+| Painel Play Uol | [Ir](https://painel.play.uol.com.br/minha-conta/)
 
 
 
