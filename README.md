@@ -2,7 +2,7 @@
 LinksUteis
 
 ## 💻 Links Úteis
-| Assunto | Resumo |
+| Assunto | Link |
 |-------|---------|
 | Uneb serviço declaração Imposto Renda Campus Salvador | [Ir](https://sociedadeonline.com/uneb-oferece-servico-gratuito-de-declaracao-do-imposto-de-renda-no-campus-de-salvador/)
 | Painel Play Uol |</html> [Ir](https://painel.play.uol.com.br/minha-conta/)
