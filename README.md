@@ -5,7 +5,10 @@ LinksUteis
 | Assunto | Link | 
 |-------|---------|
 | Uneb serviço declaração Imposto Renda Campus Salvador | [Ir](https://sociedadeonline.com/uneb-oferece-servico-gratuito-de-declaracao-do-imposto-de-renda-no-campus-de-salvador/)
-| Painel Play Uol | [Ir](https://painel.play.uol.com.br/minha-conta/ target="_blank")
+| Painel Play Uol | [Ir](https://painel.play.uol.com.br/minha-conta/)
+| DIO Python | [Ir](https://web.dio.me/track/engenharia-dados-python/course/e0e188c9-b6a0-480b-8193-db82af104f95/learning/0c44b229-a31e-4b20-874c-57adaed64fb1?autoplay=1)
+
+
 
 
 
